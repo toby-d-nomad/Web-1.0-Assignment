@@ -396,12 +396,12 @@
 
     .features-section-text-writing{
         width: 70%;
-        padding: 20%;
         display: flex;
         flex-direction: column;
         padding-bottom: 60px;
         justify-content: center;
         align-items: center;
+        margin-right: -50px;
     }
 
     .features-section-text > img{
