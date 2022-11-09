@@ -293,7 +293,7 @@
 }
 
 
-@media(max-width: 500px){
+@media(max-width: 375px){
     .title-section ul{
         display: none;
     }
